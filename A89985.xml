@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New matters of note made known to this kingdome. 1. A true and perfect relation of the apprehension, examination, conviction, condemnation, and confession of Andrew Roe, and Thomas Reynolds, two popish priests, who for seducing his Maejsties liege people, were drawne, hang'd and quartered at Tyburne, on 'Friday, the 21 of Ianuary, 1641. 2. The names and facts of other prisoners, executed at the same time. 3. The humble desires of the Scotch commissioners to the Kings most excellent majestie. Together with the names of the said commissioners, and an order of the House of Commons ... 4. A most strange letter which was found in the old change. Ian. 18. and directed with a crosse to the right Reverend Father in God, Mathew Wren, ... and read the same day at the committee in Grocers Hall. 5. A new protestation against the Parliament in England ... Lastly the discovery of a great and bloody treason against the King of Portugal ... Together with the Bishop of Lamego, who lately crown'd the King, yet was since found guilty with the rest.</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89985</idno><idno type="EEBO-CITATION">99860765</idno>
+  <idno type="VID">112890</idno>
+  <idno type="EEBO-PROQUEST">2240887725</idno>
+  
+            <idno type="STC">Wing N667</idno>
+            <idno type="STC">Thomason E133_11</idno>
+            <idno type="STC">ESTC R19892</idno>
+            <idno type="PROQUEST">99860765</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860765e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112890)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E133[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New matters of note made known to this kingdome. 1. A true and perfect relation of the apprehension, examination, conviction, condemnation, and confession of Andrew Roe, and Thomas Reynolds, two popish priests, who for seducing his Maejsties liege people, were drawne, hang'd and quartered at Tyburne, on 'Friday, the 21 of Ianuary, 1641. 2. The names and facts of other prisoners, executed at the same time. 3. The humble desires of the Scotch commissioners to the Kings most excellent majestie. Together with the names of the said commissioners, and an order of the House of Commons ... 4. A most strange letter which was found in the old change. Ian. 18. and directed with a crosse to the right Reverend Father in God, Mathew Wren, ... and read the same day at the committee in Grocers Hall. 5. A new protestation against the Parliament in England ... Lastly the discovery of a great and bloody treason against the King of Portugal ... Together with the Bishop of Lamego, who lately crown'd the King, yet was since found guilty with the rest.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Reynolds, Thomas, d. 1642 --  Early works to 1800.</term>
+               <term type="personal_name">Roe, Andrew, d. 1642 --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112890:1"/>
+            <pb facs="tcp:112890:1"/>
+            <p> New MATTERS Of Note made knowne to this Kingdome.</p>
+            <p n="1">1. A true and perfect Relation of the Apprehension, Examina<g ref="char:EOLhyphen"/>tion, conviction, condemnation, and confession of <hi>Andrew Roe,</hi> and <hi>Thomas Reynolds,</hi> two Popish Priests, who for seducing his Majesties liege People, were drawne, hang'd and quartered at Tyburne, on <hi>Friday,</hi> the 21 of <hi>Ianuary,</hi> 1641.</p>
+            <p n="2">2. The names and facts of the other prisoners, executed at the same time.</p>
+            <p n="3">3. The humble desires of the Scotch Commissioners to the Kings most excellent Majestie. Together with the names of the said Commissioners, and an Order of the House of Commons, decla<g ref="char:EOLhyphen"/>ring their kind acceptance thereof.</p>
+            <p n="4">4. A most strange letter which was found in the old change. <hi>Ian.</hi> 18. and directed with a Crosse, To the right Reverend Father in God, <hi>Mathew Wren,</hi> Lord Bishop of <hi>Ely,</hi> being presented and read the same day at the Committee in <hi>Grocers</hi> Hall.</p>
+            <p n="5">5. A new Protestation against the Parliament in England, and also against all Protestants, made by the Rebels in Ireland.</p>
+            <p>Lastly, the discovery of a great and bloody Treason against the King of <hi>Portugal,</hi> plotted by 25 persons of eminence, who inten<g ref="char:EOLhyphen"/>ded to kill the King, his Queene, his Son, and two daughters, and to burne the Palace and City all in one day, which being found out, ere their project tooke effect. 4 Noblemen, 4 Gentlemen, 3 Bishops, and one of the Inquisition were executed for the same. Together with the Bishop of <hi>Lamego,</hi> who had lately crown'd the King, yet was since found guilty with the rest.</p>
+            <p>London Printed for J. W. 1641.</p>
+            <pb facs="tcp:112890:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:112890:2"/>
+            <head>A Relation of the Iesuits.</head>
+            <p>IT is not yet full six weekes ago, since the seven Arch Iesuits, <hi>Abbot</hi> alias <hi>Ri<g ref="char:EOLhyphen"/>vers, Wilmore</hi> alias <hi>Turnar, Iohn Hammond</hi> alias <hi>Iackson, Edmond Cannon,</hi> who stiled himselfe Bishop of <hi>Calcedon, Walter Coleman, Edmond Fryer,</hi> and <hi>Peter Wilford,</hi> were apprehended, convicted and condemned according to the Lawes of this Kingdome, provided in that behalfe for seducing and stealing away the hearts of his Majesties liege People from their obedience and lawfull sub<g ref="char:EOLhyphen"/>jection to his Royall Crowne, and dignity, whose quarters had now hung up<g ref="char:EOLhyphen"/>on the severall gates of the City, as an Embleme of their hatefull conspiracies, had not the Kings mercy, far above their deserts, at such a time when they could expect nothing in justice but a sudden and shamefull death, reprieved them from the gallowes, and gave them a longer time (if it bee possible for them so to doe) to see their erronious oppinions, but what good use doe they or the rest of their fellowes make of this, is it not rather an encouragement to them in their evill courses, surely it is to evidence the more clemency they receive from his Majesty, the more eagerly they labour to bring his Crowne in subjection to their holy Father the Pope, but let them know, forbearance is no quittance, they are still in the hands of Iustice, and an extraordinary see will set young Gregory a worke at any time.</p>
+            <p>They being reprieved, two more came upon the stage, and acted their parts very bravely for a time, till at last they were forct to take their <hi>Exit</hi> at Ty<g ref="char:EOLhyphen"/>burne.</p>
+            <p>Ones name was <hi>Andrew Roe,</hi> who upon his first apprehension was put in the Fleet, from whence some in the house soone perceiving his profession by the observation of his carriage) he was removed to Newgate, the fittest place of the two: The others name was <hi>Thomas Reynolds,</hi> who was taken at his cham<g ref="char:EOLhyphen"/>ber neere Turnestile, and bound over to answer for himselfe at the next Sessi<g ref="char:EOLhyphen"/>ons, which being come and both brought before the Bench to their tryall, one confest he had beene a Priest 30 yeares, the other that he had bin condemned for the same fact 12 yeares before in Surry.</p>
+            <p>Both exprest themselves very willing to dye, saying they could not spend their blood in a more honourable cause; as for their Religion they were firm<g ref="char:EOLhyphen"/>ly resolved to live and dye in it, being affured they should not lose their re<g ref="char:EOLhyphen"/>ward, but have their names canonized for Saints among Catholiques, and in<g ref="char:EOLhyphen"/>rold by Angels in Heaven: whereupon the Recorder proceeded to give sen<g ref="char:EOLhyphen"/>tence of judgement upon them, which was, that they must bee carried from
+<pb facs="tcp:112890:3"/> thence back againe to the place from whence they came, and from thence on Friday following be drawne on a Sledg to Tyburn, there to hang while their bodies were almost dead, then to be cut downe, dismembred, have their hearts and Bowels burnd, and after be divided in quarters, and their limbs left to the disposall of his Maiesty, which sentence was executed upon them Ian. 21. di<g ref="char:EOLhyphen"/>verse being there to heare some conf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssion, but there was nothing at all spoke by them to any purpose, for after they had sung a Psalme i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Latine the hang<g ref="char:EOLhyphen"/>man gave them a swing, and after proceeded to the rest with much Dexterity, their quarters were brought back to Newgate in Baskets about noone the same day, and are to be set up upon 4 Gates of the City.</p>
+            <div type="list_of_condemned">
+               <head>The Names of the Prisoners condemn'd this last Sessions.</head>
+               <p>Audrew Roe, a Popish Priest, who upon his examination exprest himselfe very willing to dye, confessed he had bin a Priest 30 yeares.</p>
+               <p>Thomas Reynolds, another Popish Priest, condemn'd 12 years ago in Su<g ref="char:EOLhyphen"/>ry for a Priest.</p>
+               <p>William Messinger, for Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>glary, he rail'd against the Bench and Iury, tel<g ref="char:EOLhyphen"/>ling them he would pray in Hell, that the fire might burne and scald them, for he knew he should meet them there.</p>
+               <p>Iohn Glover, for killing a man in the strand.</p>
+               <p>Iohn Franke. Andrew Carwell for picking of a pocket.</p>
+               <p>Iames Hedges, who with foure more rob'd a House, under the Pretence of seeking for Papists.</p>
+               <p>Iohn Owin, Edward Staples, Thomas Hodges, all copartners in the fore<g ref="char:EOLhyphen"/>said exploit and found guilty, but sau'd by their bookes.</p>
+               <p>Thomas Hutchings for breaking open a Gentlemans chamber in Grayes Inne.</p>
+               <p>Elizabeth Lees, repriev'd, being with childe.</p>
+            </div>
+         </div>
+         <div type="petition">
+            <head>The Humble desires of the Commissioners of Scotland, to the Kings most excellent Maiesty.</head>
+            <p>We your Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esties humble and faithfull Subiects, considering that the mu<g ref="char:EOLhyphen"/>tuall relation betwixt your Maiesties Kingdome of Scotland and England, is such, as they must stand or fall together, and the disturbances of the one, must needes disquiet and distemper the Peace of the other, as hath bin acknowledged by them both, and especially in the late Treaty which is ratified in Parliament, and confirmed by the publike Faith of the Estates of your Maiesties ancient &amp; Native Kingdome of Scotland.</p>
+            <pb facs="tcp:112890:3"/>
+            <p> So that they are bound to maintaine the peace and liberties of one another, be<g ref="char:EOLhyphen"/>ing highly concerned therein, as the assured meanes of the safety and preserva<g ref="char:EOLhyphen"/>tion of your owne: and finding our selves warranted and obliged by all m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anes to labour to keepe a right understanding, betweene your Majesty and your peo<g ref="char:EOLhyphen"/>ple, to confirme that brotherly affection begun betwixt the two Nations, to advance their unity, by all such wayes as may tend to the glory of God, and peace of the Church, and state of both Kingdomes. And likewise to proffer our service for removing all jealousies and mistakings which may arise betwixt your Majesty and this Kingdome, and our best endeavours for the better esta<g ref="char:EOLhyphen"/>blishment of the affaires and quiet of the same. That both your Majesties King<g ref="char:EOLhyphen"/>dom of <hi>Scotland</hi> and <hi>England,</hi> may be united in the enjoying of the liberties and peace under your Majesties Scepter, which is the most assured foundation of your Majesties honour and greatnesse, and of the security of your Royall Person, Crowne, and Dignity: we have taken the boldnesse to shew your Majesty, that we are heartily sorry and griev'd to behold these distractions, which encrease daily betwixt your Majesty and your people, and which we conceive are enter<g ref="char:EOLhyphen"/>tain'd by the wicked plots and practises of Papists, Prelates, and their adhe<g ref="char:EOLhyphen"/>rents, whose aime in all these troubles, hath beene no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely to prevent all fur<g ref="char:EOLhyphen"/>ther Reformation, but also to subvert the purity and truth of Religion within all your Majesties Kingdomes, for which end, their constant endeavours have beene to stir up division betweene your Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty and your people; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y their que<g ref="char:EOLhyphen"/>stioning the authority of Parliaments, and the lawfull liberties of the Subjects; and really weakning your Majesties power and Authority Royall, upon pretence of defending the same. Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reof, by Gods Providence being disapoynted in your Majesties Kingdome of <hi>Scotland,</hi> they have now converted their mischievous counsels, conspiracies, and attemps to produce these distempers in your Maje<g ref="char:EOLhyphen"/>sties Kingdomes of <hi>England</hi> a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Ireland.</hi> And therefore according to our duty to your Majesty, to testifie our brotherly affection to these Kingdomes, and to quit our selves of the trust imposed on us. We doe make offer of our humble endeavours, for composing these differences. And to that purpose doe beseech your Majesty in these extremities, to have recourse to the sound and faithfull advice of the Honourable Houses of Parliament. And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o repose thereupon, as the onely assured and happy meanens to establish the prosperity and quiet of this Kingdome. And in the depth of your Royall Wisedome, to consider and pre<g ref="char:EOLhyphen"/>vent these apprehensions of feare, which may possesse the hearts of your Maje<g ref="char:EOLhyphen"/>sties Subjects in your other Kingdomes, if th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y shall conceive the Authority of Parliaments, and the rights and liberties of the Subject to be here called in question; and we are confident, if you Majesty shall be graciously pleased to take in good part, and give eare to these our faithfull and humble desires, that the successe of your Majesties affaires, howsoever now perplexed, shall be hap<g ref="char:EOLhyphen"/>py to your Majesty, and joyfull to all your people over whom that your Maje<g ref="char:EOLhyphen"/>sty
+<pb facs="tcp:112890:4"/> may long and prosperously raigne, is the constant and servent prayer of us,</p>
+            <closer>
+               <signed>Your Majesties faithfull Subjects, and Servants;
+<list>
+                     <item>
+                        <hi>Earle</hi> Lothian.</item>
+                     <item>
+                        <hi>Earle</hi> Lindesay.</item>
+                     <item>
+                        <hi>Lord</hi> Balmerino.</item>
+                     <item>
+                        <hi>Sir</hi> Thomas Mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ton.</item>
+                     <item>
+                        <hi>Sir</hi> Tho<g ref="char:EOLhyphen"/>mas Hope.</item>
+                     <item>
+                        <hi>Sir</hi> Archibauld Janson.</item>
+                     <item>
+                        <hi>Burgesses.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Iohn Smith.</item>
+                     <item>
+                        <hi>Master</hi> Robert Bark<g ref="char:EOLhyphen"/>lay.</item>
+                     <item>
+                        <hi>Master</hi> Patrick Bell.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="response">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae</hi> 17. Januar. 1641.</date>
+               </dateline>
+            </opener>
+            <p>THe House of Commons having considered, both that Paper given into them from the Scottish Commissioners upon Saterday last, as likewise their advice lately given to his Majesty, by occasion of these present troubles, which at the entrety of the said house, they have communicated to them, and finding there in a large testimony of fidelity to the King, of affection to the State, and of wisedome for the honour, security, and peace of his Majesties, and both Kingdomes, doth hereby declare that they have herein done that which is not onely very acceptable to this House, but likewise that which is of great advantage to both Nations. And therefore have ordered, that Sir <hi>Philip Staple<g ref="char:EOLhyphen"/>ton,</hi> M. <hi>Hampden,</hi> M <hi>Fynes,</hi> M. <hi>Pym,</hi> M. <hi>Arthur Goodwin,</hi> M. <hi>Long,</hi> Sir <hi>Henry Va<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> Junior; or any three of them shall returne them very hearty and affectionate thanks in the name of this House. And this House doth further desire them that according to their aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions already expressed, they will continue their care and endeavours to remove the present distractions amongst us, as also to pre<g ref="char:EOLhyphen"/>serve and confirme the union betweene the two nations so happily begun.</p>
+            <closer>
+               <signed>Hen. Elsing Cler. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A true Copy of a Letter found in the Old-Change ne<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re to Cheap-side,</hi> December 18. 1642.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THe late misfortunes that have lately befalne you have made us something afraid, and would much more afright us, but that we know (and all the rest of the Lords) have so good an Advocate as she is, that we make no question of your delivery, if that things fit rightly, but the base Commons are so bent, that nothing can be done, but they one way or other heare of it; yet for all their wits, the plot in <hi>Ireland</hi> goes on well, and though they be like <hi>Argus</hi> at home, yet they see but like a mole abroad. The comon People are so rude, that they are not ashamed to rayle against the good Queene, and I thinke that if they could, they would even pull her from her regall throne, but I much won<g ref="char:EOLhyphen"/>der at the King of <hi>France,</hi> that he doth suffer these things to be done, and de<g ref="char:EOLhyphen"/>fers his comming so long, but I thinke he will not procrastinate the matter ve<g ref="char:EOLhyphen"/>ry long; for I had a letter from <hi>France</hi> he last weeke, which certified me that the King of <hi>France</hi> swore that he would not suffer these things to be done, though he lost his life. Likewise the good Mother Queene is in working (God
+<pb facs="tcp:112890:4"/> and our holy Father assist her) such a work as willbe very wonderfull, if it come to passe. My Lord be close, and see the event. I hope to see you sit in the Cathe<g ref="char:EOLhyphen"/>drall of Ely, in as much state as ever you did, to curb the Puritans, one thing more, the Citizes of <hi>London</hi> make great provision for war, if occasion be, al<g ref="char:EOLhyphen"/>most every man and Apprentice hath a Musket, and other weapons, but wee feare them not; for they are not expert in using of them, but doe every thing in a disorder, that they one hinder another, but we have expert souldiers and Gentlemen, that are able to fight six to twenty of them, we have one thing more to certifie you of, that we are consulting together by what meanes wee may free you our of the Tower, and so you may escape beyond Sea and then fearing nothing, for his holinesse will protect you, and so my Lord, we commit you to God.</p>
+            <closer>
+               <signed>Your honour<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Friends, F. P. T. Q. C. EL. T. H.</signed>
+               <dateline>From our lodging in <hi>Covent-garden,</hi>
+                  <date>this 18 of <hi>Ian.</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="protest">
+            <head>
+               <hi>A Copy of a Protestation shewed to me, by</hi> Garreldin <hi>of</hi> Waterford <hi>Merchant, about the twenty of</hi> December <hi>last, I being with him, and soure other appoynted to watch at the Key-gate of the City.</hi>
+            </head>
+            <p>THat whereas the Parliament of <hi>England,</hi> hath taken away his Maiesties Royall power from him, and hath left him but the name of a King his Highnesse loyall Subiects of <hi>Ireland,</hi> protell to spend our lives and estates, to maintaine his Maiesties said royall power and Prerogative, to him and his Royall Sccessours.</p>
+            <p>And whereas the said Parliament of <hi>England,</hi> hath used such cruelty to the poore Catholikes of <hi>England,</hi> as hath not onely extended to the losse of their estates, but some of their lives; and intended the like to us (had not the infi<g ref="char:EOLhyphen"/>nite goodnesse of God put into our hearts, to raise this war for defence of our selves) we desire this should be published, that the world may take notice of our iust cause we had to take up Armes, and require all to be ayding and assi<g ref="char:EOLhyphen"/>sting to us.</p>
+            <closer>
+               <signed>Thomas Monck.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A Copy of another Letter written from</hi> Lisbon <hi>in</hi> Portugall.</head>
+            <p>THere have bin brought unto the place of execution, the Marquesse <hi>de Vil<g ref="char:EOLhyphen"/>la Reall,</hi> and his son, the Duke <hi>de Camucha;</hi> together with the Earle <hi>de Armamar,</hi> and <hi>Don Augustine Manuel;</hi> they were lodged that night at the house of <hi>Diego Duarta.</hi> Presently after, there was in the same night set up a Scaffold in the middest of the place of Execution, made with steps or degrees of Assent; upon the highest step there were set two Chaires, and made fast, one for the Duke, and the other for his Father: and on a lower there was set a thaire for the Earle of <hi>Armamar,</hi> and upon the boards lower, there was set ano<g ref="char:EOLhyphen"/>ther chaire for <hi>Don Augustine Manuel,</hi> so that they all did fit upon chaies or stooles, but one higher then the other. And there was made a Gallery for the
+<pb facs="tcp:112890:5"/> house, (wherein they were) unto the Scaffold all hung with Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es. After that there were two high Gallowes set up; one at the side of S. <hi>Anthonies</hi> gate, and the other in the Street named <hi>Escudeiros,</hi> so that the Scaffold was in the midst▪ The next day betweene 11. and 12. of the clocke there came unto the windows of the house, foure Corrigidours of the Court, and some authorized Officers. Thereupon came the Marquesse <hi>de Villa Reall,</hi> with a Monteere upon his head, a little stick in his hand, and with a cloake about him. After that he had made the first step, he fell upon his knees, and made an elegant Speech, or lamentati<g ref="char:EOLhyphen"/>on, with great constancy, more then was thought; then the Herauld at Armes began presently to cry, the King our Lord desireth, that right be done: <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Louys,</hi> late Marquesse <hi>de Villa Reall,</hi> Traytours against the person of the King, and for the good of the Kingdome, and of the common people, shall be behea<g ref="char:EOLhyphen"/>ded, his goods confiscated for the royall Exchequer, and his memory banished out of the world. The Marquesse came, as I mentioned before upon the Scaf<g ref="char:EOLhyphen"/>fold, with great courage, and sate downe upon the chaire: then came the exe<g ref="char:EOLhyphen"/>cutioner, made his body and armes fast, and cut of his head; and presently the Marquesse was covered with a garment of Bayes. This being done, the Duke his son came forth, accompained as the Father; and the Herauld cryed, as be<g ref="char:EOLhyphen"/>fore, untill the Duke came unto the chair, upon which his fathers body was be<g ref="char:EOLhyphen"/>fore whose feet he kneeled downe (kissing the same a thousand times) and cra<g ref="char:EOLhyphen"/>ved time, <hi>To say one Pater noster for his Fathers Soule.</hi> Which being done, he went unto his seat, but more faint-hearted, and so was beheaded, and covered. That came the Earle of <hi>Armamar,</hi> (with a common Doore-keeper) and <hi>Don Augusti<g ref="char:EOLhyphen"/>no Manuel,</hi> which were executed likewise. Besides <hi>Pero de Baessa</hi> and <hi>Belchior Correnda Franca,</hi> were hanged up at the side of S. <hi>Anthonies</hi> gate; and in the street nam'd <hi>Escudeiros,</hi> there hung <hi>Manuel Valente,</hi> and a Clerk; whereupon all the people began to part, and to cry, <hi>God save</hi> Don John, the Fourth.</p>
+            <p>Thwo houres after the 4. hanged, were quartered, and their quarters carried away. But beleeve me, this relation, and spectacle following doth change my blood, <hi>viz.</hi> The two Bishops, and with them, the Bishop <hi>de Broga,</hi> and the In<g ref="char:EOLhyphen"/>quisitior <hi>Mor,</hi> for the same Treason, are cast into the Tower of <hi>Belem,</hi> into deep pits, which run under the water, wherein there is no light, to end their lives there. The Bishop <hi>de Braga</hi> recanted not, but said to his last, that King <hi>Philip</hi> was his Lord, and that he did loose his life for him. The rest confessed their crimes, and alwayes cryed for the mercy of the King, <hi>Don Iohn</hi> the Fourth, and especial<g ref="char:EOLhyphen"/>ly, he Marques <hi>de Villa Reall,</hi> who had written 3. or 4 sheets of paper, craving his mercy: but the King had comitted it unto justice, and therefore would not in<g ref="char:EOLhyphen"/>termeddle in pardoning any of them. <hi>Beassa</hi> would confesse nothing, and dyed resolutely. Their intent was to kill the King of <hi>Portugall,</hi> his Queen, his Son, and two Daughters, and to burne the Pallace and City upon one day.</p>
+            <closer>
+               <signed>I remaine your servant, &amp;c.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.
+<pb facs="tcp:112890:5"/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
